@@ -46,6 +46,8 @@ Olá,sou Kellyane, tenho 19 anos e sou natural de Itacoatiara/AM. Tenho o ensino
   />
 </a>
 
+<br/><br/>
+
 ## 🤖 Linguagens e Tecnologias
 
 <img 
