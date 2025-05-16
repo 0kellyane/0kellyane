@@ -22,6 +22,29 @@ Olá,sou Kellyane, tenho 19 anos e sou natural de Itacoatiara/AM. Tenho o ensino
 </p>
 
 ---
+## 📫 Contato
+
+<a href="mailto:kellyanedelimacaldas@gmail.com" target="_blank">
+  <img 
+    align="left" 
+    alt="E-mail" 
+    title="E-mail" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/0kelllyane" target="_blank">
+  <img 
+    align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -58,6 +81,24 @@ Olá,sou Kellyane, tenho 19 anos e sou natural de Itacoatiara/AM. Tenho o ensino
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 
 <br/>
